@@ -4,7 +4,7 @@ With the help of this tool you can scrap, both dark websites and normal websites
 ## Web Scrap
 
 CLI based tool for you to scrape .onion websites info on the go.
-
+Tor brower will run in background for extracting the links from onion sites & for normal sites there is no need.
 
 ## Installation
 
