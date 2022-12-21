@@ -1,4 +1,4 @@
-# web-scrapper
+# web-scraper
 With the help of this tool you can scrap, both dark websites and normal websites (basically runs on google).
 
 ## Web Scrap
